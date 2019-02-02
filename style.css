@@ -3,5 +3,8 @@ body{
   color: white;
   background-color: #2398ff
 }
- 
+ h1{
+ 	text-align: center;
+ 	font-size: 3em;
+ }
 
