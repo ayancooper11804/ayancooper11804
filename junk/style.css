@@ -1,26 +1,16 @@
 body{
   text-align: center;
   color: white;
-  background-image: url("comp.code.png")
-
+  background-color: #2398ff
 }
  h1{
  	text-align: center;
  	font-size: 3em;
-
  }
 
  nav ul li{
- 	text-align: left;
+ 	text-align: center;
  	display: inline;
- 	
 
+ }
 
-	
-}
-
-
-
-
-
- 
